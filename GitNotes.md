@@ -57,6 +57,3 @@ ssh-keygen -t rsa 4096 -C "netjimb@yahoo.com"
 
     git diff
         enter q to exit
-
-
-Test Note to delete
