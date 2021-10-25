@@ -2,6 +2,7 @@
 
 [freeCodeCamp.org on YouTube] https://www.youtube.com/watch?v=RGOj5yH7evk
 
+[GitHub] https://github.com/gwenf/demo-repo
 ## Set Default Profile
     Open Visual Studio Code and press and hold Ctrl + ` to open the terminal.
     Open the command palette using Ctrl + Shift + P .
@@ -10,7 +11,8 @@
     Click on the + icon in the terminal window.
     The new terminal now will be a Git Bash terminal.
 
-    C:\Users\User\OneDrive\GitRepo\GitAndGithubForBeginnersCourse\Git and GitHub for Beginners.md
+[YouTube Notes] C:\Users\User\OneDrive\GitRepo\GitAndGithubForBeginnersCourse\Git and GitHub for Beginners.md
+
 
 
 ## Example Flow
@@ -22,9 +24,9 @@
     OR
     git add "Filename.extention"
 
-    git commit
+    git commit -m "[comments]"
 
-    git push
+    git push origin [repo]
 
     Note: git init 
             
@@ -52,6 +54,9 @@ ssh-keygen -t rsa 4096 -C "netjimb@yahoo.com"
         -b to create a new branch
         Use the BranchName as the description
         NOTE: Auto Tab complete will pick up on any part of the name
+
+    git diff
+        enter q to exit
 
 
 Test Note to delete
