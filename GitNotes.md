@@ -35,7 +35,9 @@
             -u will allow git push without adding the origin and master parameters
             This is the same command as --set-upstream
 
-
+Note:
+    git commit -am "using a "adds" a new file and m is still message"
+        adds and commits at the same time but only for MODIFIED files
 
 
 
