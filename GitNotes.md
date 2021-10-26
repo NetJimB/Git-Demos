@@ -39,7 +39,7 @@ Note:
     git commit -am "using a "adds" a new file and m is still message"
         adds and commits at the same time but only for MODIFIED files
 
-
+Add a line to test
 
 # SSH example
 ssh-keygen -t rsa 4096 -C "netjimb@yahoo.com"
